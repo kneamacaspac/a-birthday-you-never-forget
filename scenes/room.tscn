@@ -1,12 +1,12 @@
 [gd_scene load_steps=19 format=4 uid="uid://cmhnf4io5klkg"]
 
-[ext_resource type="Texture2D" uid="uid://cnlm1gsvse55f" path="res://assets/InteriorTilesLITE.png" id="1_36trf"]
-[ext_resource type="Texture2D" uid="uid://562eq665uhkg" path="res://assets/bathroomWall.png" id="2_85yof"]
+[ext_resource type="Texture2D" uid="uid://cnlm1gsvse55f" path="res://assets/roomAssets/InteriorTilesLITE.png" id="1_36trf"]
+[ext_resource type="Texture2D" uid="uid://562eq665uhkg" path="res://assets/roomAssets/bathroomWall.png" id="2_85yof"]
 [ext_resource type="PackedScene" uid="uid://cwktiwx1mp17e" path="res://scenes/player.tscn" id="2_ffxv4"]
-[ext_resource type="Texture2D" uid="uid://dovah8341mwud" path="res://assets/happy.png" id="3_jxe34"]
-[ext_resource type="Texture2D" uid="uid://bv7uxj5rsiidc" path="res://assets/birthday.png" id="4_jn645"]
-[ext_resource type="Texture2D" uid="uid://c073omanuxe5w" path="res://assets/balloosAndGift.png" id="5_jn645"]
-[ext_resource type="Texture2D" uid="uid://86x3ivix6byc" path="res://assets/cakeAdnPlate.png" id="6_qvc4m"]
+[ext_resource type="Texture2D" uid="uid://dovah8341mwud" path="res://assets/roomAssets/happy.png" id="3_jxe34"]
+[ext_resource type="Texture2D" uid="uid://bv7uxj5rsiidc" path="res://assets/roomAssets/birthday.png" id="4_jn645"]
+[ext_resource type="Texture2D" uid="uid://c073omanuxe5w" path="res://assets/roomAssets/balloosAndGift.png" id="5_jn645"]
+[ext_resource type="Texture2D" uid="uid://86x3ivix6byc" path="res://assets/roomAssets/cakeAdnPlate.png" id="6_qvc4m"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_ffxv4"]
 texture = ExtResource("1_36trf")

@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://c073omanuxe5w"
-path="res://.godot/imported/balloosAndGift.png-03576dfea7f0cb9f0ae86ba1a8cdeb74.ctex"
+uid="uid://3irvt3oyy4v5"
+path="res://.godot/imported/TX Struct.png-2d5ab5acd5bf03d75b4e5d2b5363b73c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/balloosAndGift.png"
-dest_files=["res://.godot/imported/balloosAndGift.png-03576dfea7f0cb9f0ae86ba1a8cdeb74.ctex"]
+source_file="res://assets/stoneEraAssets/TX Struct.png"
+dest_files=["res://.godot/imported/TX Struct.png-2d5ab5acd5bf03d75b4e5d2b5363b73c.ctex"]
 
 [params]
 

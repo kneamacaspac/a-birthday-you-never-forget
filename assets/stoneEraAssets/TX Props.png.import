@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bv7uxj5rsiidc"
-path="res://.godot/imported/birthday.png-ac541f4df30d528ca37095dfe4af9b58.ctex"
+uid="uid://c7u14pl28v7xv"
+path="res://.godot/imported/TX Props.png-b15cefdf2b1738fc4a1075d433fe9aaf.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/birthday.png"
-dest_files=["res://.godot/imported/birthday.png-ac541f4df30d528ca37095dfe4af9b58.ctex"]
+source_file="res://assets/stoneEraAssets/TX Props.png"
+dest_files=["res://.godot/imported/TX Props.png-b15cefdf2b1738fc4a1075d433fe9aaf.ctex"]
 
 [params]
 

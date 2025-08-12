@@ -13,7 +13,7 @@ config_version=5
 config/name="A Birthday You'll Never Forget"
 run/main_scene="uid://cmhnf4io5klkg"
 config/features=PackedStringArray("4.4", "Forward Plus")
-config/icon="res://assets/icon.svg"
+config/icon="res://assets/roomAssets/icon.svg"
 
 [display]
 

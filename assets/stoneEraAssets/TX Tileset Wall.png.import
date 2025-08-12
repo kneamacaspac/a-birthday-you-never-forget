@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://ddjafs085wg3e"
-path="res://.godot/imported/MCWalkingSprite.png-144120787150f26024af96535a0078bd.ctex"
+uid="uid://c3vpagib5cp2t"
+path="res://.godot/imported/TX Tileset Wall.png-d5a6e633ae6e213639813778ee67db4b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/MCWalkingSprite.png"
-dest_files=["res://.godot/imported/MCWalkingSprite.png-144120787150f26024af96535a0078bd.ctex"]
+source_file="res://assets/stoneEraAssets/TX Tileset Wall.png"
+dest_files=["res://.godot/imported/TX Tileset Wall.png-d5a6e633ae6e213639813778ee67db4b.ctex"]
 
 [params]
 

@@ -11,7 +11,6 @@ func _physics_process(delta):
 	
 func player_movement(delta):
 		
-	
 	if Input.is_action_pressed("ui_right"):
 		current_dir = "right"
 		play_anim(1)
@@ -70,3 +69,6 @@ func play_anim(movement):
 			anim.play("backWalk")
 		elif movement == 0:
 			anim.play("backIdle")
+		
+			
+	
