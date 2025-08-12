@@ -2,21 +2,6 @@
 
 [ext_resource type="PackedScene" uid="uid://cwktiwx1mp17e" path="res://scenes/player.tscn" id="1_731vh"]
 
-[sub_resource type="Animation" id="Animation_yn5os"]
-resource_name = "walk"
-tracks/0/type = "value"
-tracks/0/imported = false
-tracks/0/enabled = true
-tracks/0/path = NodePath("Sprite2D:frame")
-tracks/0/interp = 1
-tracks/0/loop_wrap = true
-tracks/0/keys = {
-"times": PackedFloat32Array(0, 0.0333333, 1),
-"transitions": PackedFloat32Array(1, 1, 1),
-"update": 1,
-"values": [0, 0, 0]
-}
-
 [sub_resource type="Animation" id="Animation_ptges"]
 length = 0.001
 tracks/0/type = "value"
@@ -32,6 +17,21 @@ tracks/0/keys = {
 "values": [0]
 }
 
+[sub_resource type="Animation" id="Animation_yn5os"]
+resource_name = "walk"
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("Sprite2D:frame")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0, 0.0333333, 1),
+"transitions": PackedFloat32Array(1, 1, 1),
+"update": 1,
+"values": [0, 0, 0]
+}
+
 [sub_resource type="AnimationLibrary" id="AnimationLibrary_mycwb"]
 _data = {
 &"RESET": SubResource("Animation_ptges"),
@@ -43,7 +43,7 @@ _data = {
 [node name="player" parent="." instance=ExtResource("1_731vh")]
 position = Vector2(0, 4)
 
-[node name="Sprite2D" type="Sprite2D" parent="player"]
+[node name="Sprite2D2" type="Sprite2D" parent="player"]
 
 [node name="AnimationPlayer" type="AnimationPlayer" parent="player"]
 libraries = {

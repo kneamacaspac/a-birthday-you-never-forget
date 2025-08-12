@@ -142,5 +142,3 @@ sprite_frames = SubResource("SpriteFrames_oprun")
 animation = &"sideWalk"
 autoplay = "frontIdle"
 frame_progress = 0.737259
-
-[node name="Sprite2D" type="Sprite2D" parent="."]
